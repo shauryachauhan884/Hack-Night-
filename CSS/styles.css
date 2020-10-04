@@ -1,0 +1,157 @@
+
+
+#title{
+  background-color: #48562E;
+}
+h1{
+
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+.h{
+  font-family: font-family: 'Ubuntu', sans-serif;
+}
+.navbar-brand{
+  position: relative;
+  bottom: 5px;
+  padding: 0 0 4.5rem;
+  font-size: 3rem;
+  font-family: font-family: 'Ubuntu', sans-serif;
+}
+.nav-item{
+  position: relative;
+  left: 80px;
+  bottom: 30px;
+  font-family: sans-serif;
+  font-size: 1.5rem;
+  padding: 0 18px 0 0;
+}
+.bt{
+  margin:5% 3% 5% 0;
+}
+.ip{
+width: 110%;
+
+  position: relative;
+
+  left:20%;
+}
+.fm{
+  color: #386839;
+  padding: 3rem 0 0 0;
+}
+.fm:hover{
+  color: #549C57;
+}
+#features{
+  background-color: white;
+  padding: 7% 15%;
+  position: relative;
+  z-index: 1;
+}
+#testimonials{
+  background-color:#48562E;
+  text-align: center;
+
+  color: white;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+.testimonialimg{
+  border-radius: 100%;
+  margin: 2%;
+  width: 50rem;
+}
+#press{
+  background-color: #48562E;
+text-align: center;
+padding-bottom: 3%;
+
+}
+.pressimg{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+#pricing{
+  margin:7% 15%;
+  text-align: center;
+}
+#cta{
+  background-color: #48562E;
+  text-align: center;
+  color: #fff;
+  padding: 7% 15%;
+}
+#footer{
+  background-color: #fff;
+  text-align: center;
+  margin:0;
+}
+@media (max-width:991px)  {
+  .ip{
+    position: static;
+    transform: rotate(0);
+  width: 30%;
+  }
+  #title{
+    text-align: center;
+  }
+}
+.foot{
+  margin: 2% 1%;
+}
+.form{
+  position: relative;
+  left: 30%;
+  background-color: #48562E;
+
+align-items: baseline;
+
+}
+#gform{
+  background-color: #48562E;
+}
+.btn{
+  position: relative;
+ top: 20%;
+  left: 16%;
+
+  width: 500px;
+  height: 100px;
+
+
+}
+.firstp{
+  background-color: #48562E;
+}
+.first_page{
+  color: white;
+}
+.fam{
+  text-align: center;
+
+  margin-top: 50px;
+}
+.logo{
+  margin-top: 1%;
+  position: relative;
+  left: 35%;
+
+  width: 30%;
+}
+.veg{
+  border-radius: 50%;
+  position: relative;
+  left: 34%;
+}
